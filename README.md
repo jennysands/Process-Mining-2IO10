@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [Requirments] (#requirments)
-* [Setup and main Technologies used] (#setup and main Technologies used)
-* [Valid files for Neural Network] (#valid files for Neural Network)
-* [Buggy files] (#buggy files)
+* [Setup and main Technologies used] (#setup-and-main-Technologies-used)
+* [Valid files for Neural Network] (#valid-files-for-Neural-Network)
+* [Buggy files] (#buggy-files)
 
 ## Requirments
 * tensorflow 1.9.0
