@@ -1,10 +1,10 @@
 # Process-Mining-2IO10
 
 ## Table of contents
-* [Requirments] (#requirments)
-* [Setup and main Technologies used] (#setup-and-main-Technologies-used)
-* [Valid files for Neural Network] (#valid-files-for-Neural-Network)
-* [Buggy files] (#buggy-files)
+* [Requirments](#requirments)
+* [Setup and main Technologies used](#setup-and-main-technologies-used)
+* [Valid files for Neural Network](#valid-files-for-neural-network)
+* [Buggy files](#buggy-files)
 
 ## Requirments
 * tensorflow 1.9.0
