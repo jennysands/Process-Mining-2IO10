@@ -21,3 +21,6 @@
 
 ## Buggy files
 * train_model.ipynb
+
+npm install
+npm start
